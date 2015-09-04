@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+ans. We create a new empty repository or convert a unversioned project to a Git repository. Then we can save commit we have made in repositories.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+ans. Staging area is in between working directory and the repository. It provides more flexibility to commit changes in git repository.
