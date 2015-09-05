@@ -7,3 +7,6 @@ ans. Staging area is in between working directory and the repository. It provide
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 ans. Branches are helpful in case when we want to try a new change just to test how it looks and works and has nothing to do with debugging. Branches helps in a way that we don't need to think about master branch when we are working on other branches and we can any mix them if we want.
+
+How do the diagrams help you visualize the branch structure?
+Diagram help us remember the branches and also help to see how the branches are related.
