@@ -3,3 +3,6 @@ ans. When there are more than one people working on the project.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 ans. Pulling manually is better because we might not want to pull all the changes which have been done in the branches.Or we might have bee also be woking on that branch in local computer because of which there can be a conflict.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+ans. One uses fork generally when he/she doesn't have permission to edit(or commit) the file so one can fork the file to their account from sombody elses's account and work on that or either clone the forked file to their computer and work from there but all new commits will be independent from where the file has been forked. Unlike forking, when you clone you actually copy the whole repository from GitHub or with in you computer and also can commit to the repository you have cloned from. Branches are used when one wants to try something new and do not want to disturb the old code and keep working on it seperately.
