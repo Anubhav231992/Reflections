@@ -9,3 +9,6 @@ ans. One uses fork generally when he/she doesn't have permission to edit(or comm
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 ans. When you clone from GitHub you get a local branch that points to the same commit as remote one but you also get a local copy of the last known state named remote_name/branch_name. It's good to store copy of your last known state locally because in case if you are working offline(for eg if you are in a plane) and you made some commits in your branch and some other person made a commit online then you can use "git fetch remote_name" to fetch the online commits which will be saved in local copy of your remote branch and the commit you made will not get effected. And you can use "git log" or "git diff" to find the difference and can merge it if you want to.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Without it would be very difficult to collabrate, you will have to mail each and every time the whole file and even mark or comment some how to let other person know what you think should be changed. 
